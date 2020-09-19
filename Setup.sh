@@ -4,6 +4,7 @@ cl=setterm
 
 ### START ###
 clear
+cd /bin
 echo "Setup Started
 "
 sleep 1
