@@ -1,5 +1,5 @@
-# ______Alarm______.
-# .  Version 1.02  .#
-==========================
-#  By Hamz-Code  #
+# Alarm
+Version : 1.02
+Coded By: Hamz-Code
+
 {Not For Termux}
