@@ -26,6 +26,7 @@ Thanks To :
 * Hamz-Code
 * Kali.org
 * Python.org
+* Github.com
 
 Developed Using :
 
@@ -36,6 +37,12 @@ Developed Using :
 
 
 '''
+import platform
+import sys
+if sys.version_info<(3,0,0):
+	print("Please run with Python 3 ! ")
+else :
+	clear = os.system("clear")
 ##############################################################################################
 # This is copied from playsound module "/usr/local/lib/python3.8/dist-packages/playsound.py" #
 ############################################################################################################################
@@ -208,11 +215,7 @@ def intro():
 
 
 def ffx():
-		playsound('/mnt/c/Users/WilZamComp/Music/Favourite/ Payphone - Maroon 5.mp3')
-		playsound('/mnt/c/Users/WilZamComp/Music/Favourite/ Payphone - Maroon 5.mp3')
-		playsound('/mnt/c/Users/WilZamComp/Music/Favourite/ Payphone - Maroon 5.mp3')
-
-
+		playsound('DefaultAlarm.mp3')
 def help():
 	clear()
 	print(Blue + "[==< Help >==]" + Green)
