@@ -42,6 +42,7 @@ import platform
 import sys
 if sys.version_info<(3,0,0):
 	print("Please run with Python 3 ! ")
+	exit()
 else :
 	clear = os.system("clear")
 ##############################################################################################
