@@ -7,7 +7,7 @@
 \ \   / ___ \| | (_| | |  | | | | | |  / / #
  \_\ /_/   \_\_|\__,_|_|  |_| |_| |_| /_/  #
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
-Author : Hamz-Code (Region : NYC)          #
+Author : Hamz-Code                         #
 FileType : Python  (.py)                   #
 Requirements : - Linux or MacOS            #
                - playsound module          #
