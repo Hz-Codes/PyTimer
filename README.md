@@ -13,4 +13,4 @@ Coded By: Hamz-Code
 
   {Not For Termux}
 
-if you found bugs on the program please report on https://github.com/Hamz-Code/Alarm/Issues
+if you found bugs on the program please report on https://github.com/Hz-Code/Alarm/Issues
